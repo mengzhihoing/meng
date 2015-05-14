@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/mengzhihoing/meng/blob/master/SmoothDriving.ipa</string>
+                    <string>https://raw.githubusercontent.com/mengzhihoing/meng/master/SmoothDriving.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
